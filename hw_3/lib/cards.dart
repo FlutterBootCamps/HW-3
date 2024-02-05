@@ -7,7 +7,7 @@ class CardLit extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar( // the app bar with the title of the page
-        backgroundColor: const Color.fromARGB(255, 168, 114, 183),
+        backgroundColor: Color.fromARGB(255, 148, 102, 161),
         title: const Text('Flwers List',
         style: TextStyle( // text style
           fontSize: 30.0,
@@ -31,7 +31,7 @@ class CardLit extends StatelessWidget {
 
 Widget card(String image, String title, BuildContext context) {
   return Card( // containing image and text
-    color: const Color.fromARGB(255, 225, 216, 233),
+    color: Color.fromARGB(255, 244, 237, 250),
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)),
     child: Column(
       children: [
