@@ -6,7 +6,7 @@ Your task is to create 1 screen that contains list of cards, each card has a pho
 
 ## Requirements:
 You must utilize the following widgets:  
--	AppBar  
+-	AppBar done   
 -	ListView  
 -	Card or container  
 -	Image  
