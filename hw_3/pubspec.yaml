@@ -90,4 +90,9 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:     
          - assets/sunflowers.jpeg
+         - assets/lotus.jpeg
+         - assets/orchid.jpeg
+         - assets/roses.jpeg
+         - assets/tulips.jpeg
+
 

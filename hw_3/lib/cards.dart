@@ -21,14 +21,10 @@ class CardLit extends StatelessWidget {
                 children: [
                   ClipRRect(
                     borderRadius: BorderRadius.circular(15.0),
-                    child: 
-                      SizedBox.fromSize(
-                      size: const Size.fromRadius(120),
-                      child: Image.asset(
+                    child: Image.asset(
                         'assets/sunflowers.jpeg',
                         fit: BoxFit.cover,
                       ),
-                    ),
                   ),
                   const Text(
                     "sunflowers",
