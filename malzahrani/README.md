@@ -1,16 +1,25 @@
-# malzahrani
+# HW-3
 
-A new Flutter project.
+## Description:
+Welcome to the first homework in flutter.
+Your task is to create 1 screen that contains list of cards, each card has a photo and text to. The list should be scrollable.
 
-## Getting Started
+## Requirements:
+You must utilize the following widgets:  
+-	AppBar  
+-	ListView  
+-	Card or container  
+-	Image  
+-	Text
 
-This project is a starting point for a Flutter application.
+## Submission:
+1. Flutter Project:
+    - Submit the complete Flutter project folder, including all necessary files (screens and components).
+2. GitHub Submission:
+   - Create a Fork from the project’s GitHub repository.
+   - Create a new branch with your name.
+   - Commit frequently with descriptive messages to show your progress.
+   - Finally, create a Pull Request to the project’s original repository.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Deadline: 
+6/2/2024  9:59 AM
