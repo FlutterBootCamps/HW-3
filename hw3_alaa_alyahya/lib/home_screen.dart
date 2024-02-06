@@ -8,7 +8,7 @@ class HomeScreen extends StatelessWidget{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Welcome to Alaa Plog'), 
+        title: const Text('Welcome to Alaa blog'), 
         centerTitle: true, 
         backgroundColor: Color.fromARGB(192, 15, 45, 89),
       ),
@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget{
               child: Column(
                 children: [
                   // try add image form URL
-                    Image.network('https://hips.hearstapps.com/hmg-prod/images/nutrition-1646432553.png?', 
+                    Image.network('https://hips.hearstapps.com/hmg-prod/images/nutrition-1646432553.png', 
                     fit: BoxFit.contain,
                     height: 400,
                     width: 600,
